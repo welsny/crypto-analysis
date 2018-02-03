@@ -11,7 +11,7 @@ Saves data from CMC into .csv format. N_COINS and DELAY are configurable below.
 """
 
 DIR = '~/cmc_data'
-TIME_FORMAT = '%Y-%m-%d--%H%M'
+TIME_FORMAT = '%Y-%m-%d-%H%M'
 N_COINS = 30
 DELAY = 5*60
 
