@@ -1,3 +1,11 @@
+### Cryptocurrency Datamining
+
+A data analysis project that I worked on during a side project from January - April 2018.
+
+I worked on this during a four-month trip in Taiwan (prodominately in various café's in [高雄](https://en.wikipedia.org/wiki/Kaohsiung) and [花蓮](https://en.wikipedia.org/wiki/Hualien_City)).
+
+<!---
+
 ## Suggested reading materials:
 
 1. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) -- Cal Newport
@@ -27,4 +35,4 @@ Maintain the best code quality standards possible at your current ability level;
 
 **_Premature optimization is the root of all evil_ -- [Donald Knuth](https://en.wikiquote.org/wiki/Donald_Knuth)**
 
-
+--->
